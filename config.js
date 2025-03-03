@@ -116,7 +116,7 @@ global.ch = {
         thumbnailUrl: "https://i.ibb.co/Y7mhFdf/file.jpg",
         sourceUrl: "https://dark-core-api.vercel.app/",
         mediaType: 1, 
-        renderLargerThumbnail: true 
+        renderLargerThumbnail: true   
       }, 
     }, 
   };
